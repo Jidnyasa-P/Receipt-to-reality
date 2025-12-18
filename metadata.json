@@ -1,0 +1,7 @@
+{
+  "name": "Receipt to Reality",
+  "description": "Transform messy receipts and SMS messages into a clean, AI-powered financial dashboard with actionable savings insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
