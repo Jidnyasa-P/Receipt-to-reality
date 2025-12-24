@@ -459,8 +459,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### Questions?
 - 📧 Email: support@receipttoreality.com
-- 💬 GitHub Issues: [Report a bug](https://github.com/yourusername/receipt-to-reality/issues)
-- 📚 Documentation: [Full docs](https://docs.receipttoreality.com)
+- 💬 GitHub Issues: [Report a bug](https://github.com/Jidnyasa-P/receipt-to-reality/issues)
 
 ### Feedback
 We'd love to hear your thoughts! Please open an issue or reach out via email.
@@ -479,14 +478,6 @@ We'd love to hear your thoughts! Please open an issue or reach out via email.
 - [ ] Predictive spending analysis
 - [ ] Subscription plan management
 - [ ] Team collaboration features
-
----
-
-## 👥 Team
-
-- **Lead Developer**: [Your Name]
-- **Designer**: [Designer Name]
-- **Product Manager**: [PM Name]
 
 ---
 
